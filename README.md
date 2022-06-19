@@ -1,11 +1,11 @@
-<h1 align="center"><img src="https://assets.infyom.com/open-source/infyom-logo.png" alt="InfyOm"></h1>
+<h1 align="center"><img src="https://assets.infyom.com/open-source/infyom-logo.png" alt="LaravelRussian"></h1>
 
 # Laravel UI AdminLTE
 
-[![Total Downloads](https://poser.pugx.org/infyomlabs/laravel-ui-adminlte/downloads)](https://packagist.org/packages/infyomlabs/laravel-ui-adminlte)
-[![Monthly Downloads](https://poser.pugx.org/infyomlabs/laravel-ui-adminlte/d/monthly)](https://packagist.org/packages/infyomlabs/laravel-ui-adminlte)
-[![Daily Downloads](https://poser.pugx.org/infyomlabs/laravel-ui-adminlte/d/daily)](https://packagist.org/packages/infyomlabs/laravel-ui-adminlte)
-[![License](https://poser.pugx.org/infyomlabs/laravel-ui-adminlte/license)](https://packagist.org/packages/infyomlabs/laravel-ui-adminlte)
+[![Total Downloads](https://poser.pugx.org/laravel-russian/laravel-ui-adminlte/downloads)](https://packagist.org/packages/laravel-russian/laravel-ui-adminlte)
+[![Monthly Downloads](https://poser.pugx.org/laravel-russian/laravel-ui-adminlte/d/monthly)](https://packagist.org/packages/laravel-russian/laravel-ui-adminlte)
+[![Daily Downloads](https://poser.pugx.org/laravel-russian/laravel-ui-adminlte/d/daily)](https://packagist.org/packages/laravel-russian/laravel-ui-adminlte)
+[![License](https://poser.pugx.org/laravel-russian/laravel-ui-adminlte/license)](https://packagist.org/packages/laravel-russian/laravel-ui-adminlte)
 
 [Laravel Frontend Scaffolding](https://laravel.com/docs/7.x/frontend) for [AdminLTE3](https://adminlte.io/themes/v3/) Theme.
 
@@ -15,7 +15,7 @@ Read [Documentation](https://infyom.com/open-source/laravel-ui-adminlte/docs) fo
 
 ## Support Us
 
-We have created [14+ Laravel packages](https://github.com/InfyOmLabs) and invested a lot of resources into creating these all packages and maintaining them.
+We have created [14+ Laravel packages](https://github.com/laravel-russianLabs) and invested a lot of resources into creating these all packages and maintaining them.
 
 You can support us by either sponsoring us or buying one of our paid products. Or help us by spreading the word about us on social platforms via tweets and posts.
 
@@ -27,15 +27,15 @@ You can also check out our other paid products on [CodeCanyon](https://1.envato.
 
 ### Sponsors
 
-[Become a sponsor](https://opencollective.com/infyomlabs#sponsor) and get your logo on our README on Github with a link to your site.
+[Become a sponsor](https://opencollective.com/laravel-russian#sponsor) and get your logo on our README on Github with a link to your site.
 
-<a href="https://opencollective.com/infyomlabs#sponsor"><img src="https://opencollective.com/infyomlabs/sponsors.svg?width=890"></a>
+<a href="https://opencollective.com/laravel-russian#sponsor"><img src="https://opencollective.com/laravel-russian/sponsors.svg?width=890"></a>
 
 ### Backers
 
-[Become a backer](https://opencollective.com/infyomlabs#backer) and get your image on our README on Github with a link to your site.
+[Become a backer](https://opencollective.com/laravel-russian#backer) and get your image on our README on Github with a link to your site.
 
-<a href="https://opencollective.com/infyomlabs#backer"><img src="https://opencollective.com/infyomlabs/backers.svg?width=890"></a>
+<a href="https://opencollective.com/laravel-russian#backer"><img src="https://opencollective.com/laravel-russian/backers.svg?width=890"></a>
 
 ### Follow Us
 
@@ -45,9 +45,9 @@ You can also check out our other paid products on [CodeCanyon](https://1.envato.
 - [Youtube](https://www.youtube.com/channel/UC8IvwfChD6i7Wp4yZp3tNsQ)
 - [Contact Us](https://infyom.com/contact-us)
 
-## Made with InfyOm Generator
+## Made with LaravelRussian Generator
 
-Also, Do not forget to add your website to [Made with InfyOm Generator List](https://github.com/InfyOmLabs/laravel-generator/blob/develop/made-with-generator.md) list.
+Also, Do not forget to add your website to [Made with LaravelRussian Generator List](https://github.com/laravel-russianLabs/laravel-generator/blob/develop/made-with-generator.md) list.
 
 ## Security
 
@@ -55,7 +55,7 @@ If you discover any security-related issues, create an issue using the issue tra
 
 ## Credits
 
-- [InfyOm Technologies](https://github.com/infyomlabs)
+- [LaravelRussian Technologies](https://github.com/laravel-russian)
 - [All Contributors](../../contributors)
 
 ## License
@@ -68,7 +68,7 @@ Checkout Video Tutorial - **By**: [Shailesh Ladumor](https://github.com/shailesh
 
 [<img src="https://img.youtube.com/vi/jA7hr2gE9yc/0.jpg" width="480">](https://youtu.be/jA7hr2gE9yc)
 
-Checkout Laravel Fortify Video Tutorial 
+Checkout Laravel Fortify Video Tutorial
 
 [<img src="https://img.youtube.com/vi/2lHFnYLTHSI/0.jpg" width="480">](https://youtu.be/2lHFnYLTHSI)
 
@@ -76,20 +76,20 @@ Checkout Laravel Fortify Video Tutorial
 
 ### Login
 
-![Login](https://raw.github.com/InfyOmLabs/laravel-ui-adminlte/master/screenshots/Login.png)
+![Login](https://raw.github.com/laravel-russianLabs/laravel-ui-adminlte/master/screenshots/Login.png)
 
 ### Register
 
-![Register](https://raw.github.com/InfyOmLabs/laravel-ui-adminlte/master/screenshots/Register.png)
+![Register](https://raw.github.com/laravel-russianLabs/laravel-ui-adminlte/master/screenshots/Register.png)
 
 ### Reset Password Form
 
-![Reset Password Form](https://raw.github.com/InfyOmLabs/laravel-ui-adminlte/master/screenshots/Reset-Password-Form.png)
+![Reset Password Form](https://raw.github.com/laravel-russianLabs/laravel-ui-adminlte/master/screenshots/Reset-Password-Form.png)
 
 ### Reset Password
 
-![Reset Password](https://raw.github.com/InfyOmLabs/laravel-ui-adminlte/master/screenshots/Reset-Password.png)
+![Reset Password](https://raw.github.com/laravel-russianLabs/laravel-ui-adminlte/master/screenshots/Reset-Password.png)
 
 ### Admin Layout
 
-![Reset Password](https://raw.github.com/InfyOmLabs/laravel-ui-adminlte/master/screenshots/Admin-Layout.png)
+![Reset Password](https://raw.github.com/laravel-russianLabs/laravel-ui-adminlte/master/screenshots/Admin-Layout.png)

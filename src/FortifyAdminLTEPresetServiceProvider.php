@@ -1,6 +1,6 @@
 <?php
 
-namespace InfyOm\AdminLTEPreset;
+namespace LaravelRussian\AdminLTEPreset;
 
 use Illuminate\Support\ServiceProvider;
 use Laravel\Fortify\Fortify;
