@@ -10,15 +10,15 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Mitul Golakiya",
-      "email": "me@mitul.me"
+      "name": "mltefive",
+      "email": "mltefive@gmail.com"
     }
   ],
   "require": {
     "php": "^8.0",
     "illuminate/support": "^9.0",
-    "laravel-russian/laravel-generator-helpers": "^4.0",
-    "laravel/ui": "^3.0"
+    "laravel-russian/laravel-generator-helpers": "dev-master",
+    "laravel/ui": "3.4.6"
   },
   "autoload": {
     "psr-4": {
