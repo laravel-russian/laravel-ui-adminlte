@@ -39,6 +39,12 @@
       "url": "https://opencollective.com/laravel-russian"
     }
   ],
+  "repositories": [
+    {
+      "type": "path",
+      "url": "../laravel-generator-helpers"
+    }
+  ],
   "minimum-stability": "dev",
   "prefer-stable": true
 }
